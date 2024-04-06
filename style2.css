@@ -1,0 +1,60 @@
+body{
+    background-color: bisque;
+
+}
+form{
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+   text-align: center;
+}
+.permanent{
+    font-size: smaller;
+ }
+ .language{
+    text-align: center;
+ }
+ 
+.form-container{
+    text-align: center    
+ }
+.Table{
+    text-align: center;
+}
+
+.Disability{
+   
+    text-align:center;  
+}
+.container{
+    display:flex
+    flex-wrap="wrap";
+}
+.Add {
+    flex: 1;
+    margin-right: 20px; /* Adjust as needed */
+}
+
+
+.Add input {
+    display: block;
+    margin-bottom: 10px; /* Adjust as needed */
+}
+
+.Add h3 {
+    margin-top: 0;
+}
+.a{
+    text-align:center
+}
+
+.address{
+    text-align:right;
+
+}
+.submit{
+    text-align: center;
+    align-items: center;
+}
